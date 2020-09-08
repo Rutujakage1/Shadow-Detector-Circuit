@@ -1,2 +1,2 @@
 # Shadow-Detector-Circuit
-Course Project
+Course Project for Linear Integrated Circuits
